@@ -1,4 +1,4 @@
 # UniverseRealms.github.io
 Official Server Github
 
-https://discordapp.com/api/guilds/534765397208203284/widget.json
+<iframe src="https://discordapp.com/widget?id=534765397208203284&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
