@@ -1,4 +1,4 @@
 # UniverseRealms.github.io
 Official Server Github
 
-https://discord.gg/tJNgzsS
+https://discordapp.com/api/guilds/534765397208203284/widget.json
